@@ -44,7 +44,7 @@ export default function Terminal() {
               <div><span className="text-purple-400">"role"</span>: <span className="text-slate-300">"Digital Forensics Engineering Student & Cybersecurity Researcher"</span>,</div>
               <div><span className="text-purple-400">"location"</span>: <span className="text-slate-300">"Turkey 🇹🇷"</span>,</div>
               <div><span className="text-purple-400">"status"</span>: <span className="text-slate-300">"Studying HTB CPTS & Vulnerability Analysis 🛡️"</span>,</div>
-              <div><span className="text-purple-400">"joke_count_today"</span>: <span className="text-slate-300">"Calculation Error"</span>,</div>
+              <div><span className="text-purple-400">"joke_count_today"</span>: <span className="text-slate-300">"Unknown"</span>,</div>
               <div><span className="text-purple-400">"current_mood"</span>: <span className="text-slate-300">"hacking 💻"</span></div>
             </div>
             <div className="text-slate-400">{'}'}</div>
