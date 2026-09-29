@@ -254,7 +254,7 @@ export default function App() {
                 <span>🔍</span> {t.skillsCat2}
               </h3>
               <div className="flex flex-wrap gap-2">
-                {['Malware Analysis', 'Digital Forensics', 'Wireshark', 'Network Security', 'Incident Response'].map((skill, i) => (
+                {['Malware Analysis', 'Digital Forensics', 'Network Security', 'Incident Response'].map((skill, i) => (
                   <span key={i} className="px-3 py-1.5 rounded-lg bg-fuchsia-500/10 border border-fuchsia-500/20 text-fuchsia-300 text-xs font-mono">
                     {skill}
                   </span>

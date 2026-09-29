@@ -8,7 +8,6 @@ export default function Terminal() {
     { name: 'Burp Suite', color: 'border-indigo-500/40 text-indigo-300 bg-indigo-500/10' },
     { name: 'Nmap', color: 'border-purple-500/40 text-purple-300 bg-purple-500/10' },
     { name: 'SQLMap / SQLi', color: 'border-fuchsia-500/40 text-fuchsia-300 bg-fuchsia-500/10' },
-    { name: 'Wireshark', color: 'border-violet-500/40 text-violet-300 bg-violet-500/10' },
     { name: 'Digital Forensics', color: 'border-indigo-500/40 text-indigo-300 bg-indigo-500/10' },
   ];
 
