@@ -345,7 +345,7 @@ export default function App() {
               </p>
             </div>
             <a 
-              href="https://www.linkedin.com/in/mert-ali-bağlıoğlu-7b44a438b/" 
+              href="https://www.linkedin.com/in/mert-ali-bağlıoğlu-7b44a438b" 
               target="_blank" 
               rel="noreferrer" 
               className="px-6 py-3 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-semibold transition-all whitespace-nowrap shadow-[0_0_20px_rgba(168,85,247,0.4)]"
