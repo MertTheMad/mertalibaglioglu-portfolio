@@ -134,7 +134,7 @@ export default function App() {
               {t.btnGithub}
             </a>
             <a 
-              href="mailto:mertalibaglioglu@gmail.com" 
+              href="mailto:mertalibaglioglu23@gmail.com" 
               className="px-6 py-3 rounded-xl glass-panel hover:bg-white/10 text-slate-200 font-medium transition-all flex items-center gap-2 border border-purple-500/30 hover:border-purple-400"
             >
               <svg className="w-4 h-4 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
